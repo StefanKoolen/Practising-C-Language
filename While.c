@@ -15,7 +15,7 @@ i = 0;
 			i = i++;
 
 
-		}
+		} /*Ended the while loop*/
 
 
 
